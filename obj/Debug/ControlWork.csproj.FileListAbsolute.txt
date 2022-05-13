@@ -1,0 +1,10 @@
+C:\Users\germa\source\repos\ControlWork\bin\Debug\ControlWork.exe.config
+C:\Users\germa\source\repos\ControlWork\bin\Debug\ControlWork.exe
+C:\Users\germa\source\repos\ControlWork\bin\Debug\ControlWork.pdb
+C:\Users\germa\source\repos\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+C:\Users\germa\source\repos\ControlWork\obj\Debug\ControlWork.Form1.resources
+C:\Users\germa\source\repos\ControlWork\obj\Debug\ControlWork.Properties.Resources.resources
+C:\Users\germa\source\repos\ControlWork\obj\Debug\ControlWork.csproj.GenerateResource.cache
+C:\Users\germa\source\repos\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\ControlWork\obj\Debug\ControlWork.exe
+C:\Users\germa\source\repos\ControlWork\obj\Debug\ControlWork.pdb
